@@ -1,11 +1,6 @@
 package main
 
-import (
-	"fmt"
-	"net/http"
-
-	"github.com/google/uuid"
-)
+/* deprecated
 
 func (cfg *apiConfig) handlerThumbnailGet(w http.ResponseWriter, r *http.Request) {
 	videoIDString := r.PathValue("videoID")
@@ -30,3 +25,4 @@ func (cfg *apiConfig) handlerThumbnailGet(w http.ResponseWriter, r *http.Request
 		return
 	}
 }
+*/
